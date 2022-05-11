@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @zippo761
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Stokalyuk Nikita
+- 👀 I’m interested in Python / Big data / backend
+- 🌱 I’m currently learning Python 
+- 📫 How to reach me zippo1618@gmail.com
 
 <!---
 zippo761/zippo761 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
