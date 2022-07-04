@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stokalyuk Nikita
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python/Ruby
 - 🌱 I’m currently learning Python
 - 📫 How to reach me zippo1618@gmail.com
 
