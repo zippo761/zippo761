@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stokalyuk Nikita
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Ruby/ruby on rails 
+- 👀 I’m interested in Python development
+- 🌱 I’m currently learning Ruby/Python 
 - 📫 How to reach me zippo1618@gmail.com
 
 <!---
